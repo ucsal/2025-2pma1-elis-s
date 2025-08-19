@@ -12,7 +12,7 @@ public class AdminUser extends User {
     }
 
     public void deleteContent(int contentId) {
-        /* exclusivo do admin */
+        /* exclusivo do adminn */
     }
     
 }
